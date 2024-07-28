@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Helliton Cruz⚡
 ##
-- 🔭 Estagiário em Desenvolvimento
-- 🌱 Estudando React, Node e TypeScript
+- 🔭 Front-End Developer
+- 🌱 React, Nextjs e TypeScript
 
 <div align="center">
   <a href="https://github.com/hellitoncruz">
